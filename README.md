@@ -15,8 +15,8 @@
   <li>Guitar amplifier with marshall tonestack and distorsion using TDA2050</li>
   <li>DIY Spot welding machine out of a toroidal transformer</li>
   <li>Homemade RISC 8 Bit CPU</li>
-  <li><u>DIY Home automation devices using ESP32 <span styles={text-decoration:"underline"}>(Unfortunately these will be kept secret for now..)</span></li></u>
-  My favourite programming languages to work with are:<br>
+  <li>DIY Home automation devices using ESP32 (Unfortunately these will be kept secret for now..)</li></ul>
+  My favourite programming languages to work with are:
 <ul>
   <li>Arduino</li>
   <li>Python</li>
