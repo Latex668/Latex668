@@ -13,8 +13,8 @@ And some other undocumented ones (that I'll definitely document in the future!):
   <li>Guitar amplifier with marshall tonestack and distorsion using TDA2050</li>
   <li>DIY Spot welding machine out of a toroidal transformer</li>
   <li>Homemade RISC 8 Bit CPU</li>
-  <li><u>DIY Home automation devices using ESP32 (Unfortunately these will be kept secret for now..)</u>u></li>
-</ul><br>
+  <li><u>DIY Home automation devices using ESP32 <span styles={text-decoration:"underline"}>(Unfortunately these will be kept secret for now..)</span></li>
+<br>
 My favourite programming languages to work with are:<br>
 <ul>
   <li>Arduino</li>
